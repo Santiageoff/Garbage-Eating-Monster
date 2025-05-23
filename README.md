@@ -120,4 +120,4 @@ const char* password = "TU_CONTRASEÑA";
 - **Carro**  
   ![Carro](Fotos/Carrito%20Completo%20.jpg)
 
-⚠️ Por Ultimo **El cogigo para la Camara Aun no se sabe si funciona** se podria mejorar ya arreglar para que este proyecto funcione con una camara para un esp32 pero por el momento este en fase de desarrollo para un futuro
+⚠️ Por Ultimo **El codigo para la Camara Aun no se sabe si funciona** se podria mejorar ya arreglar para que este proyecto funcione con una camara para un esp32 pero por el momento este en fase de desarrollo para un futuro
